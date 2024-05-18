@@ -1,0 +1,13 @@
+{
+  "person": {
+    "name": "Gamze Gül Çakı",
+    "age": 32,
+    "address": {
+      "street": "91.street",
+      "city": "Netherlands",
+      "state": "Haarlem",
+      "zipcode": "455667"
+    },
+    "email": "gamze@caki.com"
+    }
+  }

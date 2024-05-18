@@ -1,0 +1,9 @@
+person:
+  name: Gamze Gül Çakı
+  age: 32
+  position: Software Test Engineer
+company:
+  name: Lely
+skills:
+  - Manual Testing
+  - Automation Testing
